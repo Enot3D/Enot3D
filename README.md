@@ -1,16 +1,47 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Enot3D/Enot3D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Just a little Klop
 
-Here are some ideas to get you started:
+**Small bug. Unreasonably ambitious projects.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+\   /
+.-o o-.
+/   |   \
+----/ .----- .\----
+/ /       \ \
+/ /         \ \
+\_____/
+/ | \
+/  |  \
+
+probably not the bug you're looking for.
+```
+
+*Concrete outside. Too many tabs inside.*
+
+</div>
+
+---
+
+### Between an idea and a working thing
+
+I build useful software. Occasionally, I become the bug I was trying to fix.
+
+Somewhere between careful engineering and **“I have a terrible idea. Open the editor.”**
+
+This is my workshop: projects, experiments, and ideas that escaped the group chat.
+
+### Look around
+
+Browse my [repositories](https://github.com/Enot3D?tab=repositories) to see what I have been building.
+
+---
+
+<div align="center">
+
+`RUSSIAN PARADISE / LOCAL BUG POPULATION: 1`
+
+<sub>The code is public. The thought process is under investigation.</sub>
+
+</div>
